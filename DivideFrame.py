@@ -13,4 +13,3 @@ for i in video_list:
         else:
             break
     cap.release()
-print()
